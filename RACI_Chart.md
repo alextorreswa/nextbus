@@ -33,9 +33,8 @@
 
 ---
 
-## **Step 3: Build Your Chart**
+## **Step 3: RACI Chart**
 
-Here’s a **template RACI Chart** you can use (ready for Excel, Google Sheets, or Docs):
 
 | **Tasks/Subtasks**                | **Project Manager (Alex)** | **Web Dev (Maria)** | **UI/UX Designer (Ben)** | **Data Engineer (Chris)** | **Test Coordinator (Emily)** | **QR Specialist (Samuel)** | **Community Liaison (Rosa)** |
 |-----------------------------------|----------------------------|---------------------|---------------------------|----------------------------|-----------------------------|-----------------------------|-------------------------------|
